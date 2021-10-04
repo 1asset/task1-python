@@ -1,1 +1,1 @@
-# task1-python
+# Task 1 from Python
